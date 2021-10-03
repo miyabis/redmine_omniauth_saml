@@ -1,0 +1,9 @@
+ja:
+  label_login_with_saml: SAMLでのログイン
+  label_login_page_text: ログインページのテキスト
+  label_saml_enabled: SAML認証を有効にする
+  label_replace_redmine_login: Redmineのログインページを置き換える
+  text_full_logout_proposal: 他のユーザー名を試す前に、%{value} したほうがよいでしょう。
+  text_logout_from_saml: SSOセッションを閉じる
+  label_onthefly_creation: ユーザーを自動的に作成しますか？
+  error_saml_invalid_ticket: 無効なSAML認証チケット
